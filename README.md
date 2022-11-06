@@ -1,0 +1,1 @@
+# spread-i18n-gui
